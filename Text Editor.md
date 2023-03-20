@@ -1,4 +1,4 @@
-# 02 Coder's Computer
+# 02 Coder's Computer UNFINISHED
 1. What are four important features to look for in a text editor?  
 2. What do the following commands do?  
 - pwd
