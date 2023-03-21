@@ -15,7 +15,7 @@
 - *mkdir* - Make Directory. Creates a new directory in the current location.
 - *touch* - Creates a new file in the current location.  
 
-****3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)**  **
+**3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?**  
 
 - *cd projects* - Changes your location from the current directory to the location stated, in this case 'projects'.
 - *mkdir new-project* - Makes a new directory call 'new-project'.
