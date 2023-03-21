@@ -8,7 +8,7 @@ Hi! I'm Rachael. I have a degree in East Asian Studies and love learning Japanes
 - Napping
 - Exercising- trying to lift more weights in the gym.
 
-![weightlifting guineapig](https://www.funnyjunksite.com/pictures/funnypics/sport/weight_lifting/funny_weight_lifting_picture_11.jpg) 
+![weightlifting guineapig](https://www.funnyjunksite.com/pictures/funnypics/sport/weight_lifting/funny_weight_lifting_picture_11.jpg)
 
 The purpose of this website is to track progress and keep notes on the classes throughout the TechEducators course.  
 Visit my [GitHub](https://github.com/RachaelH25?tab=repositories) for more.  
