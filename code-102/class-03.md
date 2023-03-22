@@ -6,7 +6,8 @@ What is Version Control?
 
 What is cloning in Git?  
 
-- Cloning is Git is when you create a copy of an existing Git repository from a server by using the clone command 'git clone link'.
+- *Cloning is Git is when you create a copy of an existing Git repository from a server by using the clone command 'git clone link'.*  
+
 What is the command to track and stage files?
 
 - *git add .*  
