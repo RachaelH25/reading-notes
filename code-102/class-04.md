@@ -1,5 +1,7 @@
 # Structuring with HTML
 
+[Return Home](/README.md)
+
 1. What is HTML and why do we use it?
     - *HTML stands for **H**yper**T**ext **M**arkup **L**anguage.*
     - *HTML is used to structure webpages and it's contents.*  

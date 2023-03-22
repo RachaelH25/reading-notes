@@ -1,5 +1,7 @@
 # 02 Coder's Computer
 
+[Return Home](/README.md)
+
 **1. What are four important features to look for in a text editor?**  
 
    1. code completion  
