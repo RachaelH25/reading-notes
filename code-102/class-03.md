@@ -1,6 +1,6 @@
 # 03 Revisions and the Cloud
 
-[Return Home](/README.md)
+[Return Home](https://rachaelh25.github.io/reading-notes/)
 
 What is Version Control?  
 

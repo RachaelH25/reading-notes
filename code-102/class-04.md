@@ -1,6 +1,6 @@
 # Structuring with HTML
 
-[Return Home](/README.md)
+[Return Home](https://rachaelh25.github.io/reading-notes/)
 
 1. What is HTML and why do we use it?
     - *HTML stands for **H**yper**T**ext **M**arkup **L**anguage.*

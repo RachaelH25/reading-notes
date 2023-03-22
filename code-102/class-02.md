@@ -1,6 +1,6 @@
 # 02 Coder's Computer
 
-[Return Home](/README.md)
+[Return Home](https://rachaelh25.github.io/reading-notes/)
 
 **1. What are four important features to look for in a text editor?**  
 

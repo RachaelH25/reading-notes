@@ -1,6 +1,6 @@
 # Design with CSS
 
-[Return Home](/README.md)
+[Return Home](https://rachaelh25.github.io/reading-notes/)
 
 ## CSS (Cascading Style Sheets)  
 

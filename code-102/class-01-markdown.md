@@ -1,6 +1,6 @@
 # Markdown Reflection  
 
-[Return Home](/README.md)
+[Return Home](https://rachaelh25.github.io/reading-notes/)
 
 Markdown is a markup language that uses text symbols such as hyphens and asterisks to indicate the structure of the page.  
 Some benefits of using Markdown are that it can be used across different operating systems and as such are also reliable over time as Markup-formatted text can still be read using a text editing application regardless of whether or not the original technology becomes outdated.  
