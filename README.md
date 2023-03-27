@@ -23,16 +23,16 @@ Visit my [GitHub](https://github.com/RachaelH25?tab=repositories) for more.
 [Class 03- Git and GitHub Setup](https://RachaelH25.github.io/reading-notes/code-102/class-03)  
 [Class 04- Structuring with HTML](https://RachaelH25.github.io/reading-notes/code-102/class-04)  
 [Class 05- Design with CSS](https://RachaelH25.github.io/reading-notes/code-102/class-05)  
-[Class 06](https://RachaelH25.github.io/reading-notes/code-102/class-06)  
-[Class 07](https://RachaelH25.github.io/reading-notes/code-102/class-07)  
-[Class 08](https://RachaelH25.github.io/reading-notes/code-102/class-08)  
+[Class 06- Dynamic Web Pages with JavaScript](https://RachaelH25.github.io/reading-notes/code-102/class-06)  
+[Class 07- Programming with JavaScript](https://RachaelH25.github.io/reading-notes/code-102/class-07)  
+[Class 08- Operators and Loops](https://RachaelH25.github.io/reading-notes/code-102/class-08)  
   
 #### Course 201  
 
 [Class 01](https://RachaelH25.github.io/reading-notes/code-201/201-class-01)  
 [Class 02](https://RachaelH25.github.io/reading-notes/code-201/201-class-02)  
 [Class 03](https://RachaelH25.github.io/reading-notes/code-201/201-class-03)  
-[Class 04](https://RachaelH25.github.io/reading-notes/code-201/201-class-04)
+[Class 04](https://RachaelH25.github.io/reading-notes/code-201/201-class-04)  
 [Class 05](https://RachaelH25.github.io/reading-notes/code-201/201-class-05)  
 [Class 06](https://RachaelH25.github.io/reading-notes/code-201/201-class-06)  
 [Class 07](https://RachaelH25.github.io/reading-notes/code-201/201-class-07)  
