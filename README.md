@@ -47,6 +47,13 @@ Visit my [GitHub](https://github.com/RachaelH25?tab=repositories) for more.
 
 #### Course 301
 
-[Class 01](https://RachaelH25.github.io/reading-notes/code-301/301-class-01)
-[Class 02](https://RachaelH25.github.io/reading-notes/code-301/301-class-02)
-[Class 03](https://RachaelH25.github.io/reading-notes/code-301/301-class-03)
+[Class 01](https://RachaelH25.github.io/reading-notes/code-301/301-class-01)  
+[Class 02](https://RachaelH25.github.io/reading-notes/code-301/301-class-02)  
+[Class 03](https://RachaelH25.github.io/reading-notes/code-301/301-class-03)  
+[Class 04](https://RachaelH25.github.io/reading-notes/code-301/301-class-04)  
+[Class 05](https://RachaelH25.github.io/reading-notes/code-301/301-class-05)  
+[Class 06](https://RachaelH25.github.io/reading-notes/code-301/301-class-06)  
+[Class 07](https://RachaelH25.github.io/reading-notes/code-301/301-class-07)  
+[Class 08](https://RachaelH25.github.io/reading-notes/code-301/301-class-08)  
+[Class 09](https://RachaelH25.github.io/reading-notes/code-301/301-class-09)  
+[Class 10](https://RachaelH25.github.io/reading-notes/code-301/301-class-10)
